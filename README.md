@@ -59,3 +59,20 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## About
+
+Functions 
+
+• User account management (registration, login, roles, and permissions) 
+• Project creation and management 
+• Task creation from dashboard, including assignment and priority setting 
+• Task status tracking with Kanban and Gantt chart visualization 
+• Real-time notifications and reminders via notification center 
+• Menu system for easy navigation: Profile, My Tasks, Settings, Analytics, Log Out 
+• Analytics module for task and project statistics 
+• RESTful API for external integration with other systems 
+Backend: Laravel (PHP)
+Frontend: HTML, CSS, JS, Tailwind CSS
+DB: MySQL +phpMyAdmin
+Sendgrid API: Email
+Auth: Laravel auth (Fortify/Jetstream ya da custom)
